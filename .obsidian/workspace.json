@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "ee4bde86a4248611",
+    "type": "split",
+    "children": [
+      {
+        "id": "46bbe575f730f665",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14d24e3da0d21631",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大三上/OS/OPERATING SYSTEM CONCEPT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OPERATING SYSTEM CONCEPT"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7931362c03d0b6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7badf5717bd5e6b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfaf2b0056bfd6c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c526e414050dd8ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "c++",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1b81a48045fa0e9e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d7cf3174eb90b6a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0ffcb0d59dcc6ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8b22986c1228e19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "大二下/形式语言与自动机/语言及文法.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 语言及文法"
+            }
+          },
+          {
+            "id": "63cde2423692c1a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "大二下/形式语言与自动机/语言及文法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 语言及文法"
+            }
+          },
+          {
+            "id": "60b0fb66e191d07a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4bf199433cff67a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "大二下/形式语言与自动机/语言及文法.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 语言及文法"
+            }
+          },
+          {
+            "id": "5e319e3b60b7b37e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "14d24e3da0d21631",
+  "lastOpenFiles": [
+    "大三上/OS/introduction.md",
+    "大三上/OS/Main Memory.md",
+    "大三上/OS/computer-system structure.md",
+    "大三上/OS/CPU Scheduling.md",
+    "大三上/OS/Deadlocks.md",
+    "大三上/OS/File-System Implementation.md",
+    "大三上/OS/File-System Interface.md",
+    "大三上/OS/File-System Internals.md",
+    "大三上/OS/Mass-Storage Structure.md",
+    "大三上/OS/Processes.md",
+    "大三上/OS/Synchronization Examples.md",
+    "大三上/OS/synchronization-tools.md",
+    "大三上/OS/Threads & Concurrency.md",
+    "大三上/OS/Untitled.md",
+    "大三上/OS/Virtual Memory.md",
+    "翻译和解释.md",
+    "大二下/形式语言与自动机/形式语言与自动机.md",
+    "Pasted image 20250909110139.png",
+    "Pasted image 20250909105242.png",
+    "大三上/cmplr/编译原理与技术.md",
+    "大二下/计算机组成原理/2022年计算机组成原理考研复习指导.md",
+    "大三上/程序设计实践/程序设计.md",
+    "大三上/cmplr",
+    "大三上/DBS/DataBase System Concepts.md",
+    "大三上/程序设计实践",
+    "大三上/DBS/Introduction_DBS.md",
+    "Pasted image 20250908141643.png",
+    "Pasted image 20250908141307.png",
+    "大三上/DBS/Recovery System.md",
+    "大三上/DBS/Querying Processing.md",
+    "大三上/DBS/Query Optimization.md",
+    "大三上/DBS/Transactions.md",
+    "大三上/DBS",
+    "I",
+    "Pasted image 20250908103114.png",
+    "Pasted image 20250908103110.png",
+    "Pasted image 20250908103035.png",
+    "大三上/OS",
+    "Untitled",
+    "大三上",
+    "大二下/形式语言与自动机/fla-main/docs/07-tm/concat.png",
+    "惠集宝/代码规范-大括号使用约定.png",
+    "大二下/形式语言与自动机/fla-main/docs/05-pda/x-y-z.png",
+    "大二下/形式语言与自动机/fla-main/docs/preface",
+    "大二下/形式语言与自动机/fla-main/docs/11-ta",
+    "大二下/形式语言与自动机/fla-main/docs/10-pn",
+    "Untitled.canvas"
+  ]
+}

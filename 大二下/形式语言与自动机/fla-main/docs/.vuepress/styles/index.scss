@@ -1,0 +1,67 @@
+:root {
+  // accent colors
+  --vp-c-accent: #4b3eaf;
+  --vp-c-accent-bg: #4b3eaf;
+  --vp-c-accent-hover: #6154c6;
+
+  // layout vars
+  --navbar-height: 3.6rem;
+  --sidebar-width: 20rem;
+  --content-width: 740px;
+  --homepage-width: 960px;
+}
+
+[data-theme="light"] {
+  // text colors
+  --vp-c-text: #2c3e50;
+  --vp-c-text-mute: #4e6e8e;
+
+  // border colors
+  --vp-c-border: #eaecef;
+}
+
+.content {
+  font-size: 35px;
+}
+
+.definition,
+.theorem,
+.lemma,
+.conclusion,
+.observation {
+  margin: 1rem 0;
+  padding: 0.1rem 1.5rem;
+  border-radius: 0.4rem;
+  .title {
+    font-weight: bold;
+  }
+}
+.definition {
+  background-color: hsl(210, 36%, 80%, 20%);
+}
+.theorem {
+  background-color: hsl(141, 64%, 80%, 20%);
+}
+.lemma {
+  background-color: hsl(270, 64%, 80%, 20%);
+}
+.conclusion {
+  background-color: hsl(300, 37%, 80%, 20%);
+}
+.observation {
+  background-color: hsl(34, 37%, 80%, 20%);
+}
+
+main {
+  p {
+    line-height: 1.6;
+    margin-block: 0.7em 0.7em;
+  }
+  ul {
+    margin-block: 0.6em 0.6em;
+  }
+  li {
+    line-height: 1.6;
+    margin: 0.3em 0;
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "webviewer:save-to-vault": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Editor@@collapse-icon-restore": true,
+  "Editor@@heading-indicator-off": true,
+  "Editor@@italic-color@@light": "#FF953A",
+  "Editor@@inline-code-normal@@light": "#D418FF",
+  "Editor@@link-color@@light": "#498DFA",
+  "Editor@@link-color-hover@@light": "#0061FF",
+  "Components@@vault-profile-autohide": false,
+  "Components@@tab-autohide": false,
+  "Components@@Ribbon-autohide": true,
+  "Components@@nav-header-autohide": false,
+  "Components@@CTA-BTN-enable": true,
+  "Editor@@line-hover-indicator": false,
+  "Editor@@editor-grid-background-pattren": false,
+  "Editor@@inline-title-font": "\"\"",
+  "Components@@colorful-folder": true,
+  "Editor@@inline-code-background-light": "#F3F4F4",
+  "Editor@@bold-color@@light": "#FF3535"
+}
