@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上/OS/OPERATING SYSTEM CONCEPT.md",
+                "file": "大二下/Java面向对象/Java课.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OPERATING SYSTEM CONCEPT"
+              "title": "Java课"
             }
           }
         ],
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "right": {
     "id": "d7cf3174eb90b6a3",
@@ -189,6 +188,28 @@
   },
   "active": "14d24e3da0d21631",
   "lastOpenFiles": [
+    "大二下/Java面向对象/面向对象的基本概念.md",
+    "大二下/形式语言与自动机/fla-main/docs/01-preliminary/基础.md",
+    "大二下/形式语言与自动机/fla-main/README.md",
+    "大二下/形式语言与自动机/语言及文法.md",
+    "大二下/形式语言与自动机/有限自动机与右线性文法.md",
+    "大二下/形式语言与自动机/有限自动机和右线性文法关系图.md",
+    "大二下/形式语言与自动机/形式语言与自动机.md",
+    "大二下/形式语言与自动机/上下文无关语法与下推自动机.md",
+    "大二下/计算机组成原理/计算机组成原理学习记录.md",
+    "大二下/数字逻辑课设/报告.md",
+    "大二下/计算机组成原理/计组课.md",
+    "大二下/计算机组成原理/指令系统的发展与性能要求.md",
+    "大二下/计算机组成原理/运算方法和运算器.md",
+    "大二下/计算机组成原理/存储系统概述.md",
+    "大二下/计算机组成原理/2022年计算机组成原理考研复习指导.md",
+    "代码优化建议.md",
+    "翻译和解释.md",
+    "二进制指数退避.png",
+    "存储器与CPU的连接.png",
+    "大三上/算法设计与分析/博弈论与纳什均衡.md",
+    "大三上/OS/OPERATING SYSTEM CONCEPT.md",
+    "大三上/算法设计与分析",
     "大三上/OS/introduction.md",
     "大三上/OS/Main Memory.md",
     "大三上/OS/computer-system structure.md",
@@ -196,31 +217,12 @@
     "大三上/OS/Deadlocks.md",
     "大三上/OS/File-System Implementation.md",
     "大三上/OS/File-System Interface.md",
-    "大三上/OS/File-System Internals.md",
-    "大三上/OS/Mass-Storage Structure.md",
-    "大三上/OS/Processes.md",
-    "大三上/OS/Synchronization Examples.md",
-    "大三上/OS/synchronization-tools.md",
-    "大三上/OS/Threads & Concurrency.md",
-    "大三上/OS/Untitled.md",
-    "大三上/OS/Virtual Memory.md",
-    "翻译和解释.md",
-    "大二下/形式语言与自动机/形式语言与自动机.md",
     "Pasted image 20250909110139.png",
     "Pasted image 20250909105242.png",
-    "大三上/cmplr/编译原理与技术.md",
-    "大二下/计算机组成原理/2022年计算机组成原理考研复习指导.md",
-    "大三上/程序设计实践/程序设计.md",
     "大三上/cmplr",
-    "大三上/DBS/DataBase System Concepts.md",
     "大三上/程序设计实践",
-    "大三上/DBS/Introduction_DBS.md",
     "Pasted image 20250908141643.png",
     "Pasted image 20250908141307.png",
-    "大三上/DBS/Recovery System.md",
-    "大三上/DBS/Querying Processing.md",
-    "大三上/DBS/Query Optimization.md",
-    "大三上/DBS/Transactions.md",
     "大三上/DBS",
     "I",
     "Pasted image 20250908103114.png",
@@ -230,11 +232,8 @@
     "Untitled",
     "大三上",
     "大二下/形式语言与自动机/fla-main/docs/07-tm/concat.png",
-    "惠集宝/代码规范-大括号使用约定.png",
-    "大二下/形式语言与自动机/fla-main/docs/05-pda/x-y-z.png",
     "大二下/形式语言与自动机/fla-main/docs/preface",
     "大二下/形式语言与自动机/fla-main/docs/11-ta",
-    "大二下/形式语言与自动机/fla-main/docs/10-pn",
     "Untitled.canvas"
   ]
 }
