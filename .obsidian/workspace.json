@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14d24e3da0d21631",
+            "id": "b44557e7c97d90e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,18 @@
               },
               "icon": "lucide-file",
               "title": "Relational Model"
+            }
+          },
+          {
+            "id": "14d24e3da0d21631",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "大三上/DBS/数据库系统概念原书第6版.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "数据库系统概念原书第6版"
             }
           }
         ],
@@ -197,18 +209,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14d24e3da0d21631",
+  "active": "b44557e7c97d90e6",
   "lastOpenFiles": [
+    "大三上/DBS/数据库系统概念原书第6版.pdf",
+    "大三上/DBS/Relational Model.md",
     "大三上/DBS/Transactions.md",
     "大三上/DBS/SQL.md",
     "大三上/DBS/Relational-database Design.md",
-    "大三上/DBS/Relational Model.md",
     "大三上/DBS/Recovery System.md",
     "大三上/DBS/Querying Processing.md",
     "大三上/DBS/Query Optimization.md",
     "大三上/DBS/Physical Storage Systems.md",
     "大三上/DBS/Introduction_DBS.md",
-    "大三上/DBS/数据库系统概念原书第6版.pdf",
     "大三上/DBS/Data Storage Structures.md",
     "大三上/DBS/Integrity and Security.md",
     "大三上/DBS/Indexing.md",
@@ -229,7 +241,6 @@
     "大三上/OS/Main Memory.md",
     "大三上/OS/Mass-Storage Structure.md",
     "大三上/OS/OPERATING SYSTEM CONCEPT.md",
-    "大三上/OS/computer-system structure.md",
     "二进制指数退避.png",
     "存储器与CPU的连接.png",
     "大三上/算法设计与分析",
