@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "46bbe575f730f665",
+        "id": "960b10f61b403f3a",
         "type": "tabs",
         "children": [
           {
@@ -31,6 +31,20 @@
               },
               "icon": "lucide-file-text",
               "title": "数据库系统概念原书第6版"
+            }
+          },
+          {
+            "id": "fbf2dab27f099cbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大三上/算法设计与分析/第一章.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第一章"
             }
           }
         ],
@@ -107,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大二下/形式语言与自动机/语言及文法.md",
+                "file": "大三上/算法设计与分析/第一章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 语言及文法"
+              "title": "Backlinks for 第一章"
             }
           },
           {
@@ -155,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大二下/形式语言与自动机/语言及文法.md",
+                "file": "大三上/算法设计与分析/第一章.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 语言及文法"
+              "title": "Outline of 第一章"
             }
           },
           {
@@ -170,8 +184,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -185,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -224,14 +238,11 @@
     "大三上/DBS/Data Storage Structures.md",
     "大三上/DBS/Integrity and Security.md",
     "大三上/DBS/Indexing.md",
+    "大三上/算法设计与分析/第一章.md",
+    "大三上/算法设计与分析/考核.md",
+    "大三上/算法设计与分析/博弈论与纳什均衡.md",
+    "Untitled Kanban.md",
     "日常/TODO.md",
-    "大三上/OS/Untitled.md",
-    "大三上/python/python_notes.md",
-    "大三上/python",
-    "大三上/OS/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
-    "大三上/OS/深入理解计算机系统（原书第3版）.pdf",
-    "大三上/OS/深入理解计算机系统（英文原版）.pdf",
-    "c++的I/IO流类库.md",
     "日常/学期TODO.md",
     "日常/自我介绍.md",
     "日常/2025-03-25.md",
@@ -241,21 +252,17 @@
     "大三上/OS/Main Memory.md",
     "大三上/OS/Mass-Storage Structure.md",
     "大三上/OS/OPERATING SYSTEM CONCEPT.md",
-    "二进制指数退避.png",
-    "存储器与CPU的连接.png",
-    "大三上/算法设计与分析",
-    "Pasted image 20250909110139.png",
-    "Pasted image 20250909105242.png",
-    "大三上/cmplr",
-    "大三上/程序设计实践",
-    "Pasted image 20250908141643.png",
-    "Pasted image 20250908141307.png",
-    "大三上/DBS",
-    "I",
-    "Pasted image 20250908103114.png",
-    "Pasted image 20250908103110.png",
-    "Pasted image 20250908103035.png",
-    "大二下/形式语言与自动机/fla-main/docs/07-tm/concat.png",
-    "Untitled.canvas"
+    "大三上/OS/computer-system structure.md",
+    "大三上/OS/CPU Scheduling.md",
+    "大三上/OS/Deadlocks.md",
+    "大三上/OS/File-System Implementation.md",
+    "大三上/OS/File-System Interface.md",
+    "大三上/OS/File-System Internals.md",
+    "大三上/OS/synchronization-tools.md",
+    "大三上/OS/Untitled.md",
+    "大三上/OS/Synchronization Examples.md",
+    "大三上/OS/Processes.md",
+    "大二下/Java面向对象/Java课.md",
+    "c++的I/IO流类库.md"
   ]
 }
